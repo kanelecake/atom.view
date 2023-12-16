@@ -1,0 +1,4 @@
+# Exclude builds and IDE folders
+.idea/*
+dist/*
+build/*

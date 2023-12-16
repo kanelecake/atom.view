@@ -1,0 +1,9 @@
+altgraph==0.17.4
+chardet==5.2.0
+macholib==1.16.3
+packaging==23.2
+Pillow==10.1.0
+pyinstaller==6.3.0
+pyinstaller-hooks-contrib==2023.10
+PyYAML==6.0.1
+setuptools==69.0.2
